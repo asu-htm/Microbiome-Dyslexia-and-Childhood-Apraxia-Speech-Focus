@@ -1,0 +1,49 @@
+SampleID,BP_lab_ID,Family_ID,SampleType,Gender_code,Affected_score,Date_of_Birth,BirthOrder,Ethnicity,City,State,Phenotype,Relationship_to_Proband,Collection_date
+F1,SF030MO232,SF030,fecal,2,1,1_30_1983,NA,white,Gilbert,Arizona,Typical,mother,2022_1
+F2,SF030BR230,SF030,fecal,1,2,6_19_2005,NA,white,Gilbert,Arizona,Apraxia_of_speech,sibling number_1,2022_1
+F3,SF030BR229,SF030,fecal,1,2,1_21_2007,NA,white,Gilbert,Arizona,Apraxia_of_speech,sibling number_2,2022_1
+F4,SF030BR231,SF030,fecal,1,2,6_28_2009,NA,white,Gilbert,Arizona,Apraxia_of_speech,sibling number_3,2022_1
+F5,SF030PR228,SF030,fecal,2,2,4_29_2012,NA,white,Gilbert,Arizona,Apraxia_of_speech,proband,2022_1
+F6,SF030BR234,SF030,fecal,1,2,5_29_2015,NA,white,Gilbert,Arizona,Apraxia_of_speech,sibling number_4,2022_1
+F7,SF037MO261,SF037,fecal,2,1,U,NA,white,Mesa,Arizona,Typical,mother,2022_1
+F8,SF037PR258,SF037,fecal,2,2,12_19_1999,NA,white,Mesa,Arizona,Apraxia_of_speech,proband,2022_1
+F9,SF037BR257,SF037,fecal,1,2,2_9_2002,NA,white,Mesa,Arizona,Apraxia_of_speech,sibling number_1,2022_1
+F10,SF037SI259,SF037,fecal,2,2,8_11_2005,NA,white,Mesa,Arizona,Apraxia_of_speech,sibling number_2,2022_1
+F11,SF037CO262,SF037,fecal,1,2,U,NA,white,Gilbert,Arizona,Apraxia_of_speech,cousin,2022_1
+F12,SF037AU313,SF037,fecal,2,0,U,NA,white,Gilbert,Arizona,Typical,aunt,2022_1
+F13,BG061,BG061,fecal,2,2,9_26_1963,NA,white,Seattle,Washington,Dyslexia,mother,2022_2
+F14,BG058,NA,fecal,1,2,6_19_1963,NA,white,Seattle,Washington,Dyslexia,father,2022_2
+F15,BG060,NA,fecal,2,2,9_2_1994,NA,white,Seattle,Washington,Dyslexia,proband,2022_2
+F16,BG022,NA,fecal,2,2,11_11_1958,NA,white_american_indian,Seattle,Washington,Dyslexia,mother,2022_1
+F17,BG083,NA,fecal,2,2,8_5_2000,NA,white,Seattle,Washington,Dyslexia,proband,2022_1
+F18,BG077,NA,fecal,2,2,1_23_1995,NA,white,Seattle,Washington,Dyslexia,proband,2022_1
+F19,BF041MO045,NA,fecal,2,1,U,NA,white,Seattle,Washington,Typical,mother,2022_1
+S1,SF020BL281,SF020,saliva,1,1,1_8_1977,NA,white,Mesa,Arizona,Typical,father,2022_1
+S2,SF020SI282,SF020,saliva,2,0,6_4_1981,NA,white,Mesa,Arizona,Unknown,mother,2022_1
+S3,SF020NE283,SF020,saliva,1,2,7_25_2015,NA,white,Mesa,Arizona,Apraxia_of_speech,proband,2022_1
+S4,SF020NE284,SF020,saliva,1,0,4_17_2017,NA,white,Mesa,Arizona,Typical,sibling number_1,2022_1
+S5,SF030MO232,SF030,saliva,2,1,1_30_1983,NA,white,Gilbert,Arizona,Typical,mother,2022_1
+S6,SF030BR230,SF030,saliva,1,2,6_19_2005,NA,white,Gilbert,Arizona,Apraxia_of_speech,sibling number_1,2022_1
+S7,SF030BR229,SF030,saliva,1,2,1_21_2007,NA,white,Gilbert,Arizona,Apraxia_of_speech,sibling number_2,2022_1
+S8,SF030BR231,SF030,saliva,1,2,6_28_2009,NA,white,Gilbert,Arizona,Apraxia_of_speech,sibling number_3,2022_1
+S9,SF030PR228,SF030,saliva,2,2,4_29_2012,NA,white,Gilbert,Arizona,Apraxia_of_speech,proband,2022_1
+S10,SF030BR234,SF030,saliva,1,2,5_29_2015,NA,white,Gilbert,Arizona,Apraxia_of_speech,sibling number_4,2022_1
+S11,SF030BR312,SF030,saliva,1,0,7_4_2018,NA,white,Gilbert,Arizona,Typical,sibling number_5,2022_1
+S12,SF062MO121,SF062,saliva,2,1,11_9_1980,NA,white,U,Arizona,Typical,mother,2022_1
+S13,SF062FA122,SF062,saliva,1,1,4_21_1985,NA,white_asian_Indian_,U,Arizona,Typical,father,2022_1
+S14,SF062BR123,SF062,saliva,1,1,12_29_2011,NA,white,U,Arizona,Typical,sibling number_1,2022_1
+S15,SF062PR125,SF062,saliva,2,2,8_4_2017,NA,white,U,Arizona,Apraxia_of_speech,proband,2022_1
+S16,SF037MO261,SF037,saliva,2,1,U,NA,white,Mesa,Arizona,Typical,mother,2022_1
+S17,SF037PR258,SF037,saliva,2,2,12_19_1999,NA,white,Mesa,Arizona,Apraxia_of_speech,proband,2022_1
+S18,SF037BR257,SF037,saliva,1,2,2_9_2002,NA,white,Mesa,Arizona,Apraxia_of_speech,sibling number_1,2022_1
+S19,SF037SI259,SF037,saliva,2,2,8_11_2005,NA,white,Mesa,Arizona,Apraxia_of_speech,sibling number_2,2022_1
+S20,SF037CO262,SF037,saliva,1,2,U,NA,white,Gilbert,Arizona,Apraxia_of_speech,cousin,2022_1
+S21,SF037AU313,SF037,saliva,2,0,U,NA,white,Gilbert,Arizona,Typical,aunt,2022_1
+S22,BG061,BG061,saliva,2,2,9_26_1963,NA,white,Seattle,Washington,Dyslexia,mother,2022_2
+S23,BG058,NA,saliva,1,2,6_19_1963,NA,white,Seattle,Washington,Dyslexia,father,2022_2
+S24,BG060,NA,saliva,2,2,9_2_1994,NA,white,Seattle,Washington,Dyslexia,proband,2022_2
+S25,BG022,NA,saliva,2,2,11_11_1958,NA,white_american_indian,Seattle,Washington,Dyslexia,mother,2022_1
+S26,BG030BR040,NA,saliva,2,2,U,NA,white,Seattle,Washington,Dyslexia,sibling number_1,2022_1
+S27,BG083,NA,saliva,2,2,8_5_2000,NA,white,Seattle,Washington,Dyslexia,proband,2022_1
+S28,BG077,NA,saliva,2,2,1_23_1995,NA,white,Seattle,Washington,Dyslexia,proband,2022_1
+S29,BF041MO045,NA,saliva,2,1,U,NA,white,Seattle,Washington,Typical,mother,2022_1
