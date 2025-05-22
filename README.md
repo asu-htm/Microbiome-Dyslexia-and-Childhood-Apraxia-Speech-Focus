@@ -17,9 +17,9 @@ This project aims to characterize microbial communities in the gut and oral micr
 - 03_Docs
 
 ### Required software 
-- QIIME2
-- R
-- Python
+- QIIME2 (v.2024.5)
+- R (v.4.1)
+- Python (v.3.2)
 - Unix
 
 #### Citation
