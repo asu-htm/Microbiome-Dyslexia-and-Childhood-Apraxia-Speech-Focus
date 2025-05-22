@@ -9,7 +9,7 @@ This project aims to characterize microbial communities in the gut and oral micr
 ### Objectives 
 
 - Characterize the microbial community of individuals with dyslexia/apraxia and their neurotypical family members.
-- Investigate the presence of specific microbial taxa and metabolic pathways that may be linked to neurodevelopment.
+- Investigate the presence of specific microbial taxa and metabolic pathways that may be linked to these phenotypes.
 
 ### Repository Structure 
 - 01_Scripts
@@ -21,6 +21,12 @@ This project aims to characterize microbial communities in the gut and oral micr
 - R (v.4.1)
 - Python (v.3.2)
 - Unix
+
+### Taxonomic Databases 
+- Greengenes2 (v.2024.09; full-length 16S database)
+- SILVA (v.138, 99%)
+- MIMt2.0
+- GSR-DB (full-length 16S database)
 
 #### Citation
 If you use this repository or its resources in your research, please cite: XYZ
