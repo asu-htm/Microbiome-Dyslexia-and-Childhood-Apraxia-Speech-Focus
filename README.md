@@ -1,10 +1,10 @@
-# Neuro-Microbiome-Exploration-Dyslexia-and-Apraxia-Focus
-This study provides novel insights into the microbiome’s role in neurodevelopment, offering potential biomarkers for early diagnosis and therapeutic interventions.
+# Distinct Gut and Oral Microbiome Patterns Associated with Dyslexia in a Family-Based Cohort
+This study explored whether individuals with dyslexia or childhood apraxia of speech (CAS) exhibit distinct gut and oral microbiome signatures from their neurotypical family members. 
 
 ## Project Overview
-This repository contains the scripts, data, and documentation for a study investigating the gut and oral microbiome in individuals with dyslexia and apraxia. Dyslexia and apraxia are neurodevelopmental disorders affecting language processing and motor coordination, respectively. While traditionally studied from neurological and genetic perspectives, emerging research suggests that the gut-brain and oral-brain axes may play a crucial role in these conditions.
+This repository contains the scripts, data, and documentation for this study. Dyslexia and apraxia are neurodevelopmental disorders affecting language processing and motor coordination, respectively. While traditionally studied from neurological and genetic perspectives, emerging research suggests that the gut-brain and oral-brain axes may play a crucial role in these conditions. 
 
-This project aims to characterize microbial communities in the gut and oral microbiome to explore their potential contributions to neurological function. Using Illumina 16S sequencing data, we characterize the microbial diversity, composition, and functional potential of individuals with dyslexia and apraxia. Sequencing data was deposited in the NCBI SRA website with the accession ID: PRJNA1246995. 
+This project characterized the microbial communities in the gut and oral microbiome to explore their potential associations with dyslexia and CAS. Using Illumina 16S rRNA sequencing (i.e., V4 amplicon region) data, we characterize the microbial diversity, composition, and functional potential of individuals with dyslexia and apraxia. Sequencing data was deposited in the NCBI SRA website with the accession ID: PRJNA1246995. 
 
 ### Objectives 
 
